@@ -1,0 +1,3 @@
+grant codeBase "file:D:/PJM/ECLIPSE/Examples/PL_JAVA_Network/bin/" {
+	permission java.security.AllPermission;
+};
